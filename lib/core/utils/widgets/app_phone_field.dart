@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl_phone_field/intl_phone_field.dart';
-import 'package:pacelabapp/core/utils/app_colors.dart';
+import 'package:trimtime/core/utils/app_colors.dart';
+
 
 class PhoneNumberField extends IntlPhoneField {
   PhoneNumberField({

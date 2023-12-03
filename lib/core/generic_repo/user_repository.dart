@@ -1,8 +1,10 @@
 import 'dart:developer';
-import 'package:pacelabapp/core/generic_repo/intenet_checker.dart';
-import 'package:pacelabapp/core/generic_repo/network_request.dart';
-import 'package:pacelabapp/core/utils/app_strings.dart';
-import 'package:pacelabapp/core/utils/app_urls.dart';
+
+import 'package:trimtime/core/generic_repo/intenet_checker.dart';
+import 'package:trimtime/core/generic_repo/network_request.dart';
+import 'package:trimtime/core/utils/app_strings.dart';
+import 'package:trimtime/core/utils/app_urls.dart';
+
 
 class GenericError {
   final String error;

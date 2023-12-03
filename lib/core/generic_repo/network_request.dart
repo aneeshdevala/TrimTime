@@ -1,11 +1,10 @@
 // ignore_for_file: constant_identifier_names
 import 'dart:async';
 import 'dart:developer';
-
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:pacelabapp/core/utils/app_strings.dart';
+import 'package:trimtime/core/utils/app_strings.dart';
 
 part 'network_request.freezed.dart';
 

@@ -1,4 +1,3 @@
-import 'package:connectivity_plus/connectivity_plus.dart';
 
 class AppCommonFunctions {
   // to check is location allowed or not

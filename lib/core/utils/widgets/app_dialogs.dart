@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:pacelabapp/core/common/app_routes.dart';
-import 'package:pacelabapp/core/utils/app_colors.dart';
-import 'package:pacelabapp/core/utils/size_extenstion.dart';
-import 'package:pacelabapp/core/utils/widgets/app_text.dart';
-import 'package:pacelabapp/core/utils/widgets/app_title.dart';
+import 'package:trimtime/core/common/app_routes.dart';
+import 'package:trimtime/core/utils/app_colors.dart';
+import 'package:trimtime/core/utils/size_extenstion.dart';
+import 'package:trimtime/core/utils/widgets/app_text.dart';
+import 'package:trimtime/core/utils/widgets/app_title.dart';
+
 
 class AppDialogBoxes {
   static final GlobalKey<ScaffoldMessengerState> rootScaffoldMessengerKey =

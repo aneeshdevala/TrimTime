@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pacelabapp/core/utils/app_colors.dart';
+import 'package:trimtime/core/utils/app_colors.dart';
 
 class AppLoadingIndicator extends StatelessWidget {
   const AppLoadingIndicator({
